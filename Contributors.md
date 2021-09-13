@@ -16,4 +16,5 @@
 - [Annisaa Utami] (https://github.com/anchaaay)
 - [Novita Alya R] (https://github.com/novitaalya1)
 - [Irmatul Azizah] (https://github.com/irmatulazizah)
-- [Isma Shafiraa] (https://github.com/ismashafira)
+- [Isma Shafira] (https://github.com/ismashafira)
+- [Nibros Ari] (https://github.com/ariiera-code)
